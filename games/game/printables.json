@@ -1,0 +1,6 @@
+{
+    "type": "player",
+    "sprite": "🐧",
+    "color": "#FFFF00",
+    "filename": "player.png"
+ }

@@ -1,0 +1,43 @@
+[
+    {
+        "modtype": "map",
+        "modvalue": {
+            "type": "map",
+            "level": 1,
+            "view": [
+                "###############################",
+                "#                             #",
+                "#     A     H------D A        #",
+                "#     ......H      ...        #",
+                "#   H G     H                 #",
+                "#   H.........                #",
+                "#T  H    P     EEEE           #",
+                "#.............................#",
+                "###############################"
+        ]
+        }
+    },
+    {
+        "modtype": "sprite",
+        "modvalue": {
+            "type": "player",
+            "sprite": "😀",
+            "color": "#FFFF00",
+            "filename": "image.png"
+        }
+    },
+    {
+        "modtype": "sfx",
+        "modvalue": {
+            "type": "collect",
+            "filename": "acdc.wav"
+        }
+    },
+    {
+        "modtype": "font",
+        "modvalue": {
+            "type": "text",
+            "filename": "racesport.ttf"
+        }
+    }
+]
