@@ -4,5 +4,113 @@
     "sprite": "🐧",
     "color": "#FFFF00",
     "filename": "macaco.gif"
- }
+    },
+    {
+    "type": "enemy",
+    "sprite": "🐍",
+    "color": "#FFFF00",
+    "filename": "enemy.gif"
+    },
+    {
+    "type": "ambushingenemy",
+    "sprite": "🐶",
+    "color": "#FFFF00",
+    "filename": "ambushenemy.gif"
+    },
+    {
+    "type": "seekerenemy",
+    "sprite": "🦅",
+    "color": "#FFFF00",
+    "filename": "seekerenemy.gif"
+    },
+    {
+    "type": "icecreamenemy",
+    "sprite": "🧑",
+    "color": "#FFFF00",
+    "filename": "lladreenemy.jpg"
+    },
+    {
+    "type": "door",
+    "sprite": "🚪",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "rail",
+    "sprite": "🛤️",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "stair",
+    "sprite": "🪜",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "ice",
+    "sprite": "🐍",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "wall",
+    "sprite": "🧱",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "blank",
+    "sprite": "⬜",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "molten",
+    "sprite": "🕳️",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "burnt",
+    "sprite": "🔥",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "stone",
+    "sprite": "🪨",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "icecream",
+    "sprite": "🍦",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "button",
+    "sprite": "🔘",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "trapdoor",
+    "sprite": "⏹️",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "flamethrower",
+    "sprite": "🔫",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    },
+    {
+    "type": "teleport",
+    "sprite": "🌀",
+    "color": "#FFFF00",
+    "filename": "default.gif"
+    }
 ]
