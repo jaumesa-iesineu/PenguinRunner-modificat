@@ -2,50 +2,50 @@
     {
     "type": "player",
     "sprite": "🐧",
-    "color": "#FFFF00",
+    "color": "#751705",
     "filename": "macaco.gif"
     },
     {
     "type": "enemy",
     "sprite": "🐍",
-    "color": "#FFFF00",
+    "color": "#000000",
     "filename": "enemy.gif"
     },
     {
     "type": "ambushingenemy",
     "sprite": "🐶",
-    "color": "#FFFF00",
+    "color": "#0A0101",
     "filename": "ambushenemy.gif"
     },
     {
     "type": "seekerenemy",
     "sprite": "🦅",
-    "color": "#FFFF00",
+    "color": "#5C1212",
     "filename": "seekerenemy.gif"
     },
     {
     "type": "icecreamenemy",
     "sprite": "🧑",
-    "color": "#FFFF00",
+    "color": "#000000",
     "filename": "lladreenemy.jpg"
     },
     {
     "type": "door",
     "sprite": "🚪",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#824A05",
+    "filename": "door.jpg"
     },
     {
     "type": "rail",
     "sprite": "🛤️",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#5C3204",
+    "filename": "rail.jpg"
     },
     {
     "type": "stair",
     "sprite": "🪜",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#137513",
+    "filename": "stair.jpg"
     },
     {
     "type": "ice",
@@ -56,19 +56,19 @@
     {
     "type": "wall",
     "sprite": "🧱",
-    "color": "#FFFF00",
+    "color": "#454545",
     "filename": "default.gif"
     },
     {
     "type": "blank",
     "sprite": "⬜",
-    "color": "#FFFF00",
+    "color": "#021C09",
     "filename": "default.gif"
     },
     {
     "type": "molten",
     "sprite": "🕳️",
-    "color": "#FFFF00",
+    "color": "#1A0A0A",
     "filename": "default.gif"
     },
     {
