@@ -33,7 +33,7 @@
     "type": "door",
     "sprite": "🚪",
     "color": "#824A05",
-    "filename": "door.jpg"
+    "filename": "door.png"
     },
     {
     "type": "rail",
@@ -63,7 +63,7 @@
     "type": "blank",
     "sprite": "⬜",
     "color": "#021C09",
-    "filename": "blank.jpg"
+    "filename": "blank.png"
     },
     {
     "type": "molten",
@@ -81,13 +81,13 @@
     "type": "stone",
     "sprite": "🪨",
     "color": "#585954",
-    "filename": "stone.jpg"
+    "filename": "stone.png"
     },
     {
     "type": "icecream",
     "sprite": "🍌",
     "color": "#FFFF00",
-    "filename": "icecream.jpg"
+    "filename": "icecream.png"
     },
     {
     "type": "button",
@@ -105,7 +105,7 @@
     "type": "flamethrower",
     "sprite": "🔫",
     "color": "#FFFF00",
-    "filename": "flamethrower.jpg"
+    "filename": "flamethrower.png"
     },
     {
     "type": "teleport",
