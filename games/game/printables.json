@@ -39,7 +39,7 @@
     "type": "rail",
     "sprite": "🛤️",
     "color": "#5C3204",
-    "filename": "rail.jpg"
+    "filename": "rail.png"
     },
     {
     "type": "stair",
