@@ -50,67 +50,67 @@
     {
     "type": "ice",
     "sprite": "🐍",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#59730F",
+    "filename": "ice.jpg"
     },
     {
     "type": "wall",
     "sprite": "🧱",
-    "color": "#454545",
-    "filename": "default.gif"
+    "color": "#AB913A",
+    "filename": "wall.jpg"
     },
     {
     "type": "blank",
     "sprite": "⬜",
     "color": "#021C09",
-    "filename": "default.gif"
+    "filename": "blank.jpg"
     },
     {
     "type": "molten",
     "sprite": "🕳️",
     "color": "#1A0A0A",
-    "filename": "default.gif"
+    "filename": "dibujo.png"
     },
     {
     "type": "burnt",
     "sprite": "🔥",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#FF0505",
+    "filename": "burn.gif"
     },
     {
     "type": "stone",
     "sprite": "🪨",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#585954",
+    "filename": "stone.jpg"
     },
     {
     "type": "icecream",
-    "sprite": "🍦",
+    "sprite": "🍌",
     "color": "#FFFF00",
-    "filename": "default.gif"
+    "filename": "icecream.jpg"
     },
     {
     "type": "button",
     "sprite": "🔘",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#FF3200",
+    "filename": "button.jpg"
     },
     {
     "type": "trapdoor",
     "sprite": "⏹️",
-    "color": "#FFFF00",
-    "filename": "default.gif"
+    "color": "#94746F",
+    "filename": "trapdoor.jpg"
     },
     {
     "type": "flamethrower",
     "sprite": "🔫",
     "color": "#FFFF00",
-    "filename": "default.gif"
+    "filename": "flamethrower.jpg"
     },
     {
     "type": "teleport",
     "sprite": "🌀",
     "color": "#FFFF00",
-    "filename": "default.gif"
+    "filename": "teleport.gif"
     }
 ]
